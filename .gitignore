@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# 原始工程目录（本仓库只上传整理后的作业）
+hadoop/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
